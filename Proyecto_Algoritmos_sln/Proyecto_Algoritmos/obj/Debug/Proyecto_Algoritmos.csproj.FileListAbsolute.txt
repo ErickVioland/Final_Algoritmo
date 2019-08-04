@@ -1,0 +1,10 @@
+C:\Users\erick\source\repos\Proyecto_Algoritmos_sln\Proyecto_Algoritmos\bin\Debug\Proyecto_Algoritmos.exe.config
+C:\Users\erick\source\repos\Proyecto_Algoritmos_sln\Proyecto_Algoritmos\bin\Debug\Proyecto_Algoritmos.exe
+C:\Users\erick\source\repos\Proyecto_Algoritmos_sln\Proyecto_Algoritmos\bin\Debug\Proyecto_Algoritmos.pdb
+C:\Users\erick\source\repos\Proyecto_Algoritmos_sln\Proyecto_Algoritmos\obj\Debug\Proyecto_Algoritmos.csprojAssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto_Algoritmos_sln\Proyecto_Algoritmos\obj\Debug\Proyecto_Algoritmos.Form1.resources
+C:\Users\erick\source\repos\Proyecto_Algoritmos_sln\Proyecto_Algoritmos\obj\Debug\Proyecto_Algoritmos.Properties.Resources.resources
+C:\Users\erick\source\repos\Proyecto_Algoritmos_sln\Proyecto_Algoritmos\obj\Debug\Proyecto_Algoritmos.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\Proyecto_Algoritmos_sln\Proyecto_Algoritmos\obj\Debug\Proyecto_Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto_Algoritmos_sln\Proyecto_Algoritmos\obj\Debug\Proyecto_Algoritmos.exe
+C:\Users\erick\source\repos\Proyecto_Algoritmos_sln\Proyecto_Algoritmos\obj\Debug\Proyecto_Algoritmos.pdb
